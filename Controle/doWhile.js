@@ -4,8 +4,6 @@ function a(min, max) {
 }
 
 
-   
-
 do {
     opcaoo = a(-1, 10)
     console.log(`numero: ${opcaoo}.`)

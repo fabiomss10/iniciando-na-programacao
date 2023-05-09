@@ -6,4 +6,4 @@ function soma(a, b, c){
     return a + b + c
 }
 console.log(soma(3, 4, 5))
-console.log(soma())
+console.log(soma()) // como os 3 valores estao vazios (False), ele retornou todos como 1

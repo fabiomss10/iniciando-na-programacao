@@ -11,7 +11,7 @@ const funçao1 = function(){ }
 
 const array = [ function (a, b){ return a + b} ] 
 
-console.log(array[1](2, 6))
+console.log(array[0](2, 6))
 
 //armazenar em um objeto
 

@@ -6,6 +6,9 @@ function imprimirOrdem(nome, indice){
 }
 
 (imprimirOrdem(marcas[0], 0))
+
+//
+
 console.log()
-marcas.forEach(imprimirOrdem)
+marcas.forEach(imprimirOrdem)// para cada elemento encontrado, retornar para o array e mostrar no console novamente
 

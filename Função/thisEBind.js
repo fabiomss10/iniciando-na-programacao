@@ -8,7 +8,7 @@ const pessoa = {
 pessoa.falar()
 
 
-const falar = pessoa.falar
+const falar = pessoa.falar // faltou o bind
 falar() // undefined
 
 const falarDePessoa = pessoa.falar.bind(pessoa)

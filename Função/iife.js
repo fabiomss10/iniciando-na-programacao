@@ -5,3 +5,5 @@
     console.log('Essa função foge do escopo global')
     console.log('Ela também é chamada instantaneamente')
 })()
+
+//nao precisou ser chamada em outra linha

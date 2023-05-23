@@ -10,4 +10,4 @@ console.log(contadorA.valor, contadorB.valor) //como se trata de uma unica insta
 
 contadorC.inc()
 contadorC.inc()
-console.log(contadorC.valor, contadorD.valor)
+console.log(contadorC.valor, contadorD.valor) // novas instancias que foram criadas a partir de uma factory
